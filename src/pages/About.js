@@ -19,23 +19,21 @@ const About = () => {
         <>
           <article>
             <p>
-            Technical Analyst with 1 year 8 months of experience.
-            Worked as intern in Infocampus Software Training Institute for 6 months as UI-Developer
-             Proficient in REACTJS,NODEJS,EXPRESSJS and MONGODB. 
-            Passionate about implementing and creating new projects with new technologies.
+            Junior Web Developer with 6 months of experience as a intern in the search for a position where I can
+             enhance my skillset in web technologies to develop and implement solutions to meet business needs. Meets job demands and deadlines through diligent work ethic and dedication to quality
+
             </p>
             <p>
             Certiﬁed in Full-Stack Technology
             </p>
             <h2>Project</h2>
             <p>
-             Created E-Commerce Application using React(UI components).
-             Used Styled components and material UI.
-             Built a server in ExpressJs and used CORS to implement the cross origin policy between client and server.
-             Implemented the authentication feature using JWT tokens.
-             REST API's were successfully built to handle http requests.
-             Fetching Data with queries and used MongoDB methods.
-             Implemented payment method to see how easy to receive payment from client side.
+            Created the Front end (UI Components) using ReactJS. Used styled components and material UI to import icons. Filter ,Sort,Add to cart functionality added able to view the products in the cart because we used Redux We could checkout using stripe payment method after verifying
+            client and credit card information we would get payment and order got placed
+            We would have admin dashboard there we could check latest orders and users and analytics
+            Implemented the authentication feature using JWT tokens. REST API's were successfully built to handle http requests. Fetching Data with queries and used MongoDB methods. Used google storage,stripe library ,React virtual DOM,Redux,hook
+           and more.
+
 
             </p>
           

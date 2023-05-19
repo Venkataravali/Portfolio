@@ -30,7 +30,7 @@ const Home = () => {
         }}
         transition={{ duration: 1 }}
       >
-        <font>FullStack</font> Developer 
+        <font>FrontEnd</font> Developer
       </motion.div>
     </div>
   );

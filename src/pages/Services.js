@@ -9,7 +9,7 @@ const Services = () => {
    
     {
       id: 1,
-      name: "Web Application Development",
+      name: "Web Development",
       imageUrl: project1,
     },
     {

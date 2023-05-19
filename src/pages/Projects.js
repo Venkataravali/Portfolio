@@ -13,7 +13,7 @@ const Projects = () => {
     },
     {
       id: 2,
-      name: "Expense Task Tracker",
+      name: "Blog Website",
       imageUrl: project2,
     },
     {
